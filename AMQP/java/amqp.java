@@ -1,12 +1,14 @@
 /*
- * IPWorks MQ 2022 Java Edition- Demo Application
+ * IPWorks MQ 2022 Java Edition - Sample Project
  *
- * Copyright (c) 2023 /n software inc. - All rights reserved. - www.nsoftware.com
+ * This sample project demonstrates the usage of IPWorks MQ in a 
+ * simple, straightforward way. This is not intended to be a complete 
+ * application. Error handling and other checks are simplified for clarity.
  *
+ * Copyright (c) 2023 /n software inc. www.nsoftware.com
  */
 
 import java.io.*;
-
 import ipworksmq.*;
 
 public class amqp extends ConsoleDemo{
